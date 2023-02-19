@@ -1,0 +1,2 @@
+# code-png-to-ascii
+In this code, we use JavaScript to load the PNG image and create an HTML canvas. We then draw the image on the canvas and get the pixel values using the getImageData method. We map each pixel to an ASCII character based on its brightness, and finally add the resulting ASCII art to the HTML page. You can adjust the ASCII_WIDTH and ASCII_HEIGHT variables to set the size of the ASCII art, and modify the ascii_chars array to change the set of characters used to create the art.
